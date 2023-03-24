@@ -1,0 +1,1 @@
+######LIFO (Last-In-First-Out) is a data structure where the last element added is the first one to be removed, while FIFO (First-In-First-Out) is a data structure where the first element added is the first one to be removed.######
